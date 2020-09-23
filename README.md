@@ -3,7 +3,7 @@
 My First Flutter project.
 
 ## Output:
-❮img src="images/output.jpeg" width="100" ❯
+❮img src="images/output.jpeg" width="10" ❯
 ![](images/output.jpeg)
 
 
