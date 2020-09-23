@@ -1,4 +1,4 @@
-❮img src="images/output.jpeg" width="10" ❯
+❮img src="images/photo.jpg" width="10" ❯
 ## Introduction Flutter App
 
 My First Flutter project.
