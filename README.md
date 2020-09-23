@@ -4,7 +4,7 @@ My First Flutter project.
 
 ## Output:
 
-![](images/output.jpeg)
+![](images/outputs.jpeg)
 
 ## Getting Started
 
