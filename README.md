@@ -2,6 +2,10 @@
 
 My First Flutter project.
 
+## Output:
+
+![](images/output.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
