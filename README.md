@@ -1,10 +1,10 @@
-❮img src="images/photo.JPG" ❯
 ## Introduction Flutter App
 
 My First Flutter project.
 
 ## Output:
 
+![](images/output.jpeg)
 
 ## Getting Started
 
