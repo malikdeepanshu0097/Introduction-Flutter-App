@@ -1,4 +1,4 @@
-❮img src="images/photo.jpg" ❯
+❮img src="images/photo.JPG" ❯
 ## Introduction Flutter App
 
 My First Flutter project.
