@@ -1,10 +1,9 @@
+❮img src="images/output.jpeg" width="10" ❯
 ## Introduction Flutter App
 
 My First Flutter project.
 
 ## Output:
-❮img src="images/output.jpeg" width="10" ❯
-![](images/output.jpeg)
 
 
 ## Getting Started
