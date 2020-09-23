@@ -22,6 +22,7 @@ class MyApp extends StatelessWidget {
               ),
               Text(
                 "Deepanshu Malik",
+                textAlign: TextAlign.center,
                 style: TextStyle(
                     fontFamily: 'Pacifico',
                     fontSize: 60,
